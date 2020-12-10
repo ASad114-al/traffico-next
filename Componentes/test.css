@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  a{
+    color: lightseagreen;
+  
+  }
+  a:hover{
+    transform: scale(1,1);
+  }
